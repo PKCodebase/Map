@@ -18,6 +18,7 @@ public class Lab7 {
         System.out.println(mymap);
 
         System.out.println("---All keys----");
+        
         Set<String> mykeys = mymap.keySet();
         for(String key: mykeys){
             System.out.println(key);
