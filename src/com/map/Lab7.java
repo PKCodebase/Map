@@ -7,7 +7,6 @@ import java.util.Set;
 public class Lab7 {
     public static void main(String[]args){
         Map<String,String> mymap = new LinkedHashMap<>();
-
         mymap.put("sid", "101");
         mymap.put("name", "kaushik");
         mymap.put("phone","12345");
