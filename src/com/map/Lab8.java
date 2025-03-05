@@ -13,7 +13,9 @@ public class Lab8 {
         mymap.put("city", "Blore");
         mymap.put("email", "kp@gmail.com");
         mymap.put("myjlc", null);
+
         //mymap.put(null,"myjlc");
+        
         mymap.put("kp", null);
         mymap.put("kp1", null );
 
