@@ -15,7 +15,7 @@ public class Lab8 {
         mymap.put("myjlc", null);
 
         //mymap.put(null,"myjlc");
-        
+
         mymap.put("kp", null);
         mymap.put("kp1", null );
 

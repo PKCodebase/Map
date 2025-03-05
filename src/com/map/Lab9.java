@@ -10,6 +10,7 @@ public class Lab9 {
         mymap.put("phone","12345");
         mymap.put("city", "Blore");
         mymap.put("email", "kp@gmail.com");
+
         //mymap.put("myjlc", null);
         //mymap.put(null,"myjlc");
 
