@@ -21,7 +21,6 @@ public class Lab4 {
             System.out.println(mymap1);
             mymap.putAll(mymap1);
 
-
             System.out.println("---------------");
 
             System.out.println(mymap);
