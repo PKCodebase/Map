@@ -21,6 +21,7 @@ public class Lab8 {
 
         System.out.println(mymap);
 
+
         System.out.println("---All keys----");
 
         Set<String> mykeys = mymap.keySet();
